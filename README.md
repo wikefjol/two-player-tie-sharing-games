@@ -6,7 +6,6 @@ This repository contains a project dedicated to analyzing **two-player tie-shari
 - **Numerical Simulations**: Generates game matrices and simulates two-player tie-sharing games with varying parameters.
 - **Signature Reduction**: Applies Iterated Elimination of Strictly Dominated Strategies (IESDS) to identify reduced action spaces.
 - **Nash Equilibria Analysis**: Computes pure strategy Nash equilibria, including their count and location.
-- **Visualization**: Provides tools for generating heatmaps to visualize equilibria across parameter combinations.
 - **Prediction Framework**: Implements rules to predict game signatures, equilibrium count, and equilibrium locations based on parameters.
 
 ---
