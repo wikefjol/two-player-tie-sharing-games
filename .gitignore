@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+
+# Logs and debug files
+logs/
+*.log
+
+# Results and temporary files
+results_all.csv
+results_all_sorted.csv
+results_all_sorted copy.txt
+
+# Editor and OS metadata files
+.vscode/
+.DS_Store
+
+# Other directories 
+games/
+reduced_forms/
